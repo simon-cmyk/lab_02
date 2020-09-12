@@ -1,7 +1,7 @@
 # TTK21 Lecture 2 exercises
 I will each week try to put together at few exercises in [python notebooks](https://jupyter.org/), 
 which contains a set of instructions and code you can run.
-The can be run on [mybinder.org](https://mybinder.org/) by clicking on the launch buttons below,
+They can be run on [mybinder.org](https://mybinder.org/) by clicking on the launch buttons below,
 or you can [install and run jupyter](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) on you own machine.
 
 ## Exercise notebooks
