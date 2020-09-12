@@ -1,1 +1,2 @@
 https://github.com/tussedrotten/visgeom/archive/master.zip
+scipy
