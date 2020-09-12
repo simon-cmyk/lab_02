@@ -5,7 +5,7 @@ They can be run on [mybinder.org](https://mybinder.org/) by clicking on the laun
 or you can [install and run jupyter](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) on you own machine.
 
 ## Exercise notebooks
-- [1_poses-and-cameras.ipynb](1_poses-and-cameras.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttk21/ttk21_lecture-2_exercises/master?filepath=ttk21_lecture-2_exercise_1.ipynb)
+- [1_poses-and-cameras.ipynb](1_poses-and-cameras.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttk21/ttk21_lecture-2_exercises/master?filepath=1_poses-and-cameras.ipynb)
 - Coming: Practical exercise in epipolar geometry
 
 ## Dependencies
