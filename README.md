@@ -6,7 +6,7 @@ or you can [install and run jupyter](https://medium.com/codingthesmartway-com-bl
 
 ## Exercise notebooks
 - [1_poses-and-cameras.ipynb](1_poses-and-cameras.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttk21/ttk21_lecture-2_exercises/master?filepath=1_poses-and-cameras.ipynb)
-- Coming: Practical exercise in epipolar geometry
+- [2_epipolar-geometry.ipynb](2_epipolar-geometry.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttk21/ttk21_lecture-2_exercises/master?filepath=2_epipolar-geometry.ipynb)
 
 ## Dependencies
 The exercises are based on [visgeom](https://github.com/tussedrotten/visgeom), a small visualisation library I made for this course.

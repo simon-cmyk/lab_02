@@ -1,2 +1,3 @@
 https://github.com/tussedrotten/visgeom/archive/master.zip
+opencv-python
 scipy
